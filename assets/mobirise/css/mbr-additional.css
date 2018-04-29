@@ -43,6 +43,7 @@
 }
 
 
+
 #msg-box1-1 .mbr-header .mbr-header__text {
   color: #02210b;
   font-family: 'Oxygen', sans-serif;
@@ -58,6 +59,10 @@
 #msg-box1-1 .btn {
   font-size: 13px;
 }
+#form2-n .mbr-header__text {
+  font-size: 21px;
+  font-family: 'Indie Flower', cursive;
+}
 #social-buttons1-0 .mbr-header__text {
   color: #02210b;
   text-align: center;
@@ -67,8 +72,8 @@
 }
 #dropdown-menu-2btn-3 .nav .link,
 #dropdown-menu-2btn-3 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
+  font-size: 1.2em;
+  color: #41a85f;
 }
 #dropdown-menu-2btn-3 .navbar,
 #dropdown-menu-2btn-3 .dropdown-menu {
@@ -80,7 +85,7 @@
   background: #292929;
 }
 #dropdown-menu-2btn-3 .navbar-toggler {
-  color: #ffffff;
+  color: #41a85f;
 }
 
 #form2-c .mbr-header__text {
@@ -115,8 +120,8 @@
 }
 #dropdown-menu-2btn-e .nav .link,
 #dropdown-menu-2btn-e .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
+  font-size: 1.2em;
+  color: #41a85f;
 }
 #dropdown-menu-2btn-e .navbar,
 #dropdown-menu-2btn-e .dropdown-menu {
@@ -128,7 +133,7 @@
   background: #292929;
 }
 #dropdown-menu-2btn-e .navbar-toggler {
-  color: #ffffff;
+  color: #41a85f;
 }
 #header3-f H3 {
   color: #09b73c;

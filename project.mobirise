@@ -6,11 +6,13 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#c3c0c0"
+      ]
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 31,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.7.1",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -53,15 +55,15 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-6",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#41a85f"
           },
           "logo": {
             "image": {
@@ -76,7 +78,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"true\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"false\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
         },
         {
           "items": [
@@ -139,52 +141,52 @@
           },
           "testimonial": [
             {
-              "text": "<p class=\"mbr-reviews__p\">\"I love the horse she made for me! You can tell she makes her crafts with love; she's diligent. I wish that everyone enjoyed her items.“</p>",
               "authorName": "Anna Lee",
-              "authorBio": "Ohio"
+              "authorBio": "Ohio",
+              "text": "<p class=\"mbr-reviews__p\">\"I love the horse she made for me! You can tell she makes her crafts with love; she's diligent. I wish that everyone enjoyed her items.“</p>"
             },
             {
-              "text": "\"Her 'horse' sayings on the signs have a Bible scripture to match. I love that!\"<p class=\"mbr-reviews__p\"><br></p>",
               "authorName": "K. Dye",
-              "authorBio": "Missouri"
+              "authorBio": "Missouri",
+              "text": "\"Her 'horse' sayings on the signs have a Bible scripture to match. I love that!\"<p class=\"mbr-reviews__p\"><br></p>"
             },
             {
-              "text": "\"I like that she prints and writes free-hand instead of using stencils. She's creative and decorates just a little bit differently than others.\"",
               "authorName": "Stephanie",
-              "authorBio": "Kentucky"
+              "authorBio": "Kentucky",
+              "text": "\"I like that she prints and writes free-hand instead of using stencils. She's creative and decorates just a little bit differently than others.\""
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“Her love for horses spills into her crafts. It's great how she uses 'horse/western-related' materials like silver (concho/charms), twine, rope, and leather. ”</p>",
               "authorName": "D. Conn",
-              "authorBio": "<p>Kentucky&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+              "authorBio": "<p>Kentucky&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+              "text": "<p class=\"mbr-reviews__p\">“Her love for horses spills into her crafts. It's great how she uses 'horse/western-related' materials like silver (concho/charms), twine, rope, and leather. ”</p>"
             },
             {
-              "text": "\"The horseshoe fits right into my barn theme; I like that she uses real horseshoes.\"",
               "authorName": "R. Davis",
-              "authorBio": "New York"
+              "authorBio": "New York",
+              "text": "\"The horseshoe fits right into my barn theme; I like that she uses real horseshoes.\""
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“I like how she brings Bible verses into the signs; I dearly love them, and all is done by hand. Her heart and soul shows in her work.”</p>",
               "authorName": "Shirley",
-              "authorBio": "Ohio"
+              "authorBio": "Ohio",
+              "text": "<p class=\"mbr-reviews__p\">“I like how she brings Bible verses into the signs; I dearly love them, and all is done by hand. Her heart and soul shows in her work.”</p>"
             }
           ],
           "_anchor": "testimonials1-7",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": "6",
+            "showTitle": true,
             "showName": true,
             "showBio": true,
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "header": "What Lovers of Handmade Horsey Things Are Saying About Their Favorite 'For Want of a Horse' Items"
         }
@@ -227,23 +229,23 @@
           "_name": "msg-box1",
           "_anchor": "msg-box1-1",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
-            "bgColor": "#3c3c3c",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "title": "For Want of a Horse<br><span style=\"font-weight: normal;\">Handmade Gifts for Every Horse Lover</span>",
           "text": "",
@@ -256,17 +258,17 @@
           "_name": "form2",
           "_anchor": "form2-n",
           "_params": {
+            "showTitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#475577",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#c3c0c0",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Get access to discounts, promotions, and be the first to see new items by subscribing to my newsletter.",
           "form": {
@@ -281,7 +283,14 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "21px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
         },
         {
           "_tags": [
@@ -296,17 +305,17 @@
           },
           "_anchor": "social-buttons1-0",
           "_params": {
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "overlayOpacity": 0.5,
             "counters": false,
             "facebook": true,
             "google": true,
@@ -325,8 +334,8 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
+              "font-size": "1.2em",
+              "color": "#41a85f"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -335,21 +344,21 @@
               "background": "#292929"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             }
           },
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-3",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#41a85f"
           },
           "logo": {
             "image": {
@@ -364,7 +373,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"true\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"false\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
         },
         {
           "_tags": [
@@ -376,13 +385,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#444444",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#444444",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2018 For Want of a Horse &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
@@ -409,17 +418,17 @@
           },
           "_anchor": "form2-c",
           "_params": {
+            "showTitle": true,
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#553982",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#553982",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Be one of the first to get access to discounts, free shipping deals, and one of the first to see seasonal or new items throughout the year!",
           "form": {
@@ -448,17 +457,17 @@
           },
           "_anchor": "form1-b",
           "_params": {
+            "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#7c706b",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7c706b",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "QUESTIONS? ASK AWAY!",
           "form": {
@@ -491,49 +500,49 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-l",
           "_params": {
+            "inverse": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fac51c",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fac51c",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "overlayOpacity": 0.5,
             "counters": false,
             "facebook": true,
             "google": true,
             "twitter": true
           },
-          "text": "SHARE THIS PAGE!"
-        },
-        {
+          "text": "SHARE THIS PAGE!",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-m",
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-l"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#444444",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#444444",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 For Want of a Horse &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+          "text": "Copyright (c) 2018 For Want of a Horse &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-m"
         }
       ]
     },
@@ -571,15 +580,15 @@
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-4",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#41a85f"
           },
           "logo": {
             "image": {
@@ -594,15 +603,15 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"true\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"false\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
         },
         {
+          "text": "&lt;div id=\"my-store-7036864\"&gt;&lt;/div&gt;\r<div>&lt;div&gt;\r</div><div>&lt;script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?7036864&amp;data_platform=code&amp;data_date=2018-04-04\" charset=\"utf-8\"&gt;&lt;/script&gt;&lt;script type=\"text/javascript\"&gt; xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-7036864\");&lt;/script&gt;\r</div><div>&lt;/div&gt;</div>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-u",
-          "text": "&lt;div id=\"my-store-7036864\"&gt;&lt;/div&gt;\r<div>&lt;div&gt;\r</div><div>&lt;script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?7036864&amp;data_platform=code&amp;data_date=2018-04-04\" charset=\"utf-8\"&gt;&lt;/script&gt;&lt;script type=\"text/javascript\"&gt; xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-7036864\");&lt;/script&gt;\r</div><div>&lt;/div&gt;</div>"
+          "_anchor": "content1-u"
         }
       ]
     },
@@ -624,8 +633,8 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
+              "font-size": "1.2em",
+              "color": "#41a85f"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -634,21 +643,21 @@
               "background": "#292929"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             }
           },
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-e",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": false,
-            "sticky": true,
             "logo": true,
             "showBrand": true,
-            "hideButtons": false
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#41a85f"
           },
           "logo": {
             "image": {
@@ -663,7 +672,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"true\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Horses and Signs\" aria-expanded=\"false\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\">Signs</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Contact Me\">CONTACT ME</a></li>"
         },
         {
           "_tags": [
