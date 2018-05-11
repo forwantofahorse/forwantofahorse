@@ -514,7 +514,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "<meta name=\"p:domain_verify\" content=\"16b734ef7889b43323371fc1fbae0e99\"/>",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
