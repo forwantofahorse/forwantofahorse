@@ -27,7 +27,7 @@
     ".Horses and Signs": {
       "settings": {
         "title": "Handmade Wood Horses and Signs",
-        "meta_descr": "<div id=\"my-store-10071194\"></div>\n<div>\n<script type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?10071194&data_platform=code&data_date=2017-06-10\" charset=\"utf-8\"></script><script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-10071194\");</script>\n</div>Horses, Handmade, Handcrafted, Wood, Wooden, Decorated, Home Decor",
+        "meta_descr": "Horses, Handmade, Handcrafted, Wood, Wooden, Decorated, Home Decor",
         "order": 2
       },
       "components": [
@@ -393,8 +393,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -550,7 +550,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "paddingTop": "4",
+            "paddingTop": "0",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
@@ -572,8 +572,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -612,8 +612,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
