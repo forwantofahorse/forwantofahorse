@@ -85,7 +85,7 @@
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\".Horses and Signs\" aria-expanded=\"true\" target=\"_blank\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\" target=\"_blank\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\".Horses and Signs\" target=\"_blank\">Signs</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"Contact Me\">CONTACT ME</a></li>"
         },
         {
-          "text": "&lt;div id=\"my-store-7036864\"&gt;&lt;/div&gt;\n<div>&lt;div&gt;\n</div><div>&lt;script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?7036864&amp;data_platform=code&amp;data_date=2018-04-04\" charset=\"utf-8\"&gt;&lt;/script&gt;&lt;script type=\"text/javascript\"&gt; xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-7036864\");&lt;/script&gt;\n</div><div>&lt;/div&gt;</div>",
+          "text": "<div></div>",
           "_tags": [
             "Theme"
           ],
@@ -552,7 +552,7 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x3000.jpg",
             "parallax": true,
