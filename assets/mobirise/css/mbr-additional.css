@@ -21,6 +21,17 @@
 #dropdown-menu-2btn-4 .navbar-toggler {
   color: #41a85f;
 }
+
+#form2-c .mbr-header__text {
+  color: #fac51c;
+  font-family: 'Indie Flower', cursive;
+}
+#form1-b .mbr-header__text {
+  color: #fac51c;
+}
+#footer1-m P {
+  color: #7ac673;
+}
 #dropdown-menu-2btn-6 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -60,17 +71,6 @@
 }
 #testimonials1-7 .mbr-reviews__author-name P {
   text-align: center;
-}
-
-#form2-c .mbr-header__text {
-  color: #fac51c;
-  font-family: 'Indie Flower', cursive;
-}
-#form1-b .mbr-header__text {
-  color: #fac51c;
-}
-#footer1-m P {
-  color: #7ac673;
 }
 #dropdown-menu-2btn-e .hide-buttons [data-button] {
   display: none !important;

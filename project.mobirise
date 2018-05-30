@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "For Want of a Horse",
-    "currentPage": ".Home Page",
+    "currentPage": "forwantofahorse.Contact Me",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,17 +14,18 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 32,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.7.7",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "siteFonts": []
   },
   "pages": {
-    ".Horses and Signs": {
+    "forwantofahorse.Horses and Signs": {
       "settings": {
         "title": "Handmade Wood Horses and Signs",
         "meta_descr": "Horses, Handmade, Handcrafted, Wood, Wooden, Decorated, Home Decor",
@@ -80,7 +81,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"text-success\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">For Want of a Horse</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\".Horses and Signs\" aria-expanded=\"true\" target=\"_blank\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\" target=\"_blank\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\".Horses and Signs\" target=\"_blank\">Signs</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"Contact Me\">CONTACT ME</a></li>"
         },
         {
@@ -93,178 +94,7 @@
         }
       ]
     },
-    ".Testimonials": {
-      "settings": {
-        "title": "Testimonials",
-        "meta_descr": "Horse, Handmade, Handcrafted, Signs, Home Decor, Testimonials",
-        "order": 3
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#41a85f"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#41a85f"
-            }
-          },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-6",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#41a85f"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-192x128.jpg",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Blog",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\".Horses and Signs\" aria-expanded=\"true\" target=\"_blank\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\" target=\"_blank\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\".Horses and Signs\" target=\"_blank\">Signs</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"Contact Me\">CONTACT ME</a></li>"
-        },
-        {
-          "items": [
-            {
-              "authorName": "Anna Lee",
-              "authorBio": "Ohio",
-              "text": "<p class=\"mbr-reviews__p\">\"I love the horse she made for me! You can tell she makes her crafts with love; she's diligent. I wish that everyone enjoyed her items.“</p>"
-            },
-            {
-              "authorName": "K. Dye",
-              "authorBio": "Missouri",
-              "text": "\"Her 'horse' sayings on the signs have a Bible scripture to match. I love that!\"<p class=\"mbr-reviews__p\"><br></p>"
-            },
-            {
-              "authorName": "Stephanie",
-              "authorBio": "Kentucky",
-              "text": "\"I like that she prints and writes free-hand instead of using stencils. She's creative and decorates just a little bit differently than others.\""
-            },
-            {
-              "authorName": "D. Conn",
-              "authorBio": "<p>Kentucky&nbsp;&nbsp;&nbsp;&nbsp;</p>",
-              "text": "<p class=\"mbr-reviews__p\">“Her love for horses spills into her crafts. It's great how she uses 'horse/western-related' materials like silver (concho/charms), twine, rope, and leather. ”</p>"
-            },
-            {
-              "authorName": "R. Davis",
-              "authorBio": "New York",
-              "text": "\"The horseshoe fits right into my barn theme; I like that she uses real horseshoes.\""
-            },
-            {
-              "authorName": "Shirley",
-              "authorBio": "Ohio",
-              "text": "<p class=\"mbr-reviews__p\">“I like how she brings Bible verses into the signs; I dearly love them, and all is done by hand. Her heart and soul shows in her work.”</p>"
-            }
-          ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_styles": {
-            ".mbr-section__header": {
-              "color": "#09b73c"
-            },
-            ".mbr-reviews__text P": {
-              "color": "#09b73c"
-            },
-            ".mbr-reviews__author-bio": {
-              "color": "#09b73c",
-              "text-align": "center"
-            },
-            ".mbr-reviews__author-name": {
-              "color": "#09b73c",
-              "text-align": "center"
-            },
-            ".mbr-reviews__text": {
-              "color": "#09b73c"
-            },
-            ".mbr-reviews__author-name P": {
-              "text-align": "center"
-            }
-          },
-          "testimonial": [
-            {
-              "authorName": "Anna Lee",
-              "authorBio": "Ohio",
-              "text": "<p class=\"mbr-reviews__p\">\"I love the horse she made for me! You can tell she makes her crafts with love; she's diligent. I wish that everyone enjoyed her items.“</p>"
-            },
-            {
-              "authorName": "K. Dye",
-              "authorBio": "Missouri",
-              "text": "\"Her 'horse' sayings on the signs have a Bible scripture to match. I love that!\"<p class=\"mbr-reviews__p\"><br></p>"
-            },
-            {
-              "authorName": "Stephanie",
-              "authorBio": "Kentucky",
-              "text": "\"I like that she prints and writes free-hand instead of using stencils. She's creative and decorates just a little bit differently than others.\""
-            },
-            {
-              "authorName": "D. Conn",
-              "authorBio": "<p>Kentucky&nbsp;&nbsp;&nbsp;&nbsp;</p>",
-              "text": "<p class=\"mbr-reviews__p\">“Her love for horses spills into her crafts. It's great how she uses 'horse/western-related' materials like silver (concho/charms), twine, rope, and leather. ”</p>"
-            },
-            {
-              "authorName": "R. Davis",
-              "authorBio": "New York",
-              "text": "\"The horseshoe fits right into my barn theme; I like that she uses real horseshoes.\""
-            },
-            {
-              "authorName": "Shirley",
-              "authorBio": "Ohio",
-              "text": "<p class=\"mbr-reviews__p\">“I like how she brings Bible verses into the signs; I dearly love them, and all is done by hand. Her heart and soul shows in her work.”</p>"
-            }
-          ],
-          "_anchor": "testimonials1-7",
-          "_params": {
-            "showTitle": true,
-            "showName": true,
-            "showBio": true,
-            "count": "6",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "header": "What Lovers of Handmade Horsey Things Are Saying About Their Favorite 'For Want of a Horse' Items"
-        }
-      ]
-    },
-    ".Contact Me": {
+    "forwantofahorse.Contact Me": {
       "settings": {
         "title": "Newsletter and Contact",
         "meta_descr": "",
@@ -418,7 +248,178 @@
         }
       ]
     },
-    ".How It All Got Started": {
+    "forwantofahorse.Testimonials": {
+      "settings": {
+        "title": "Testimonials",
+        "meta_descr": "Horse, Handmade, Handcrafted, Signs, Home Decor, Testimonials",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#41a85f"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#41a85f"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-6",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#41a85f"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-192x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "Blog",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-success\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">For Want of a Horse</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\".Horses and Signs\" aria-expanded=\"true\" target=\"_blank\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\" target=\"_blank\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\".Horses and Signs\" target=\"_blank\">Signs</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"Contact Me\">CONTACT ME</a></li>"
+        },
+        {
+          "items": [
+            {
+              "authorName": "Anna Lee",
+              "authorBio": "Ohio",
+              "text": "<p class=\"mbr-reviews__p\">\"I love the horse she made for me! You can tell she makes her crafts with love; she's diligent. I wish that everyone enjoyed her items.“</p>"
+            },
+            {
+              "authorName": "K. Dye",
+              "authorBio": "Missouri",
+              "text": "\"Her 'horse' sayings on the signs have a Bible scripture to match. I love that!\"<p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "Stephanie",
+              "authorBio": "Kentucky",
+              "text": "\"I like that she prints and writes free-hand instead of using stencils. She's creative and decorates just a little bit differently than others.\""
+            },
+            {
+              "authorName": "D. Conn",
+              "authorBio": "<p>Kentucky&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+              "text": "<p class=\"mbr-reviews__p\">“Her love for horses spills into her crafts. It's great how she uses 'horse/western-related' materials like silver (concho/charms), twine, rope, and leather. ”</p>"
+            },
+            {
+              "authorName": "R. Davis",
+              "authorBio": "New York",
+              "text": "\"The horseshoe fits right into my barn theme; I like that she uses real horseshoes.\""
+            },
+            {
+              "authorName": "Shirley",
+              "authorBio": "Ohio",
+              "text": "<p class=\"mbr-reviews__p\">“I like how she brings Bible verses into the signs; I dearly love them, and all is done by hand. Her heart and soul shows in her work.”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#09b73c"
+            },
+            ".mbr-reviews__text P": {
+              "color": "#09b73c"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#09b73c",
+              "text-align": "center"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#09b73c",
+              "text-align": "center"
+            },
+            ".mbr-reviews__text": {
+              "color": "#09b73c"
+            },
+            ".mbr-reviews__author-name P": {
+              "text-align": "center"
+            }
+          },
+          "testimonial": [
+            {
+              "authorName": "Anna Lee",
+              "authorBio": "Ohio",
+              "text": "<p class=\"mbr-reviews__p\">\"I love the horse she made for me! You can tell she makes her crafts with love; she's diligent. I wish that everyone enjoyed her items.“</p>"
+            },
+            {
+              "authorName": "K. Dye",
+              "authorBio": "Missouri",
+              "text": "\"Her 'horse' sayings on the signs have a Bible scripture to match. I love that!\"<p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "Stephanie",
+              "authorBio": "Kentucky",
+              "text": "\"I like that she prints and writes free-hand instead of using stencils. She's creative and decorates just a little bit differently than others.\""
+            },
+            {
+              "authorName": "D. Conn",
+              "authorBio": "<p>Kentucky&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+              "text": "<p class=\"mbr-reviews__p\">“Her love for horses spills into her crafts. It's great how she uses 'horse/western-related' materials like silver (concho/charms), twine, rope, and leather. ”</p>"
+            },
+            {
+              "authorName": "R. Davis",
+              "authorBio": "New York",
+              "text": "\"The horseshoe fits right into my barn theme; I like that she uses real horseshoes.\""
+            },
+            {
+              "authorName": "Shirley",
+              "authorBio": "Ohio",
+              "text": "<p class=\"mbr-reviews__p\">“I like how she brings Bible verses into the signs; I dearly love them, and all is done by hand. Her heart and soul shows in her work.”</p>"
+            }
+          ],
+          "_anchor": "testimonials1-7",
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "6",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Lovers of Handmade Horsey Things Are Saying About Their Favorite 'For Want of a Horse' Items"
+        }
+      ]
+    },
+    "forwantofahorse.How It All Got Started": {
       "settings": {
         "title": "How It All Got Started",
         "meta_descr": "",
@@ -474,7 +475,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"text-success\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">For Want of a Horse</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\".Horses and Signs\" aria-expanded=\"true\" target=\"_blank\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\" target=\"_blank\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\".Horses and Signs\" target=\"_blank\">Signs</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"Contact Me\">CONTACT ME</a></li>"
         },
         {
@@ -510,7 +511,7 @@
         }
       ]
     },
-    ".Home Page": {
+    "forwantofahorse.Home Page": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -684,7 +685,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"text-success\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">For Want of a Horse</a>",
           "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\".Horses and Signs\" aria-expanded=\"true\" target=\"_blank\">HANDMADE PIECES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Horses and Signs\" target=\"_blank\">Horses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\".Horses and Signs\" target=\"_blank\">Signs</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Christmas Line</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coming in October!</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How It All Got Started\">HOW IT ALL GOT STARTED</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"Testimonials\">TESTIMONIALS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success\" href=\"Contact Me\">CONTACT ME</a></li>"
         }
       ]
